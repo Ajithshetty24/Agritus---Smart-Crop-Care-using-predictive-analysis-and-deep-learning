@@ -48,8 +48,6 @@ Note that, for now it only supports following crops
 ## Further Improvements 📈
 This was my first big project so there are lot of things to improve upon
 
-- CSS code is totally messed up :pensive: (some code in file and some inline)
-- Frontend can be made more nicer (PS: I suck at frontend development) :cry:	
 - More data can be collected manually via web scrapping to make the system more accurate :monocle_face:	
 - Additional plant images can be collected to make the disease detection part more robust and generalized :face_with_head_bandage:
 - Modularized code can be written instead of writing in Jupyter Notebooks (will follow this in upcoming projects)
